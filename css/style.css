@@ -1,0 +1,38 @@
+.con {
+    text-align: center;
+    height: 100vh;
+    background-color: teal;
+    display: flex;
+    align-items: center;
+}
+.container{
+    background-color: rgb(255, 255, 255);
+    height: 80vh;
+    padding-top: 50px;
+    border-radius: 20px;
+
+}
+
+h1 {
+    font-size: 80px;
+    font-family: Impact;
+    
+}
+
+button {
+    width: 250px;
+    height: 80px;
+    background-color: rgb(47, 47, 94);
+    color: white;
+    border-radius: 50px;
+    transition: all .5s;
+}
+
+p{
+    font-size: 35px;
+    
+}
+
+button:hover{
+    background-color: rgb(94, 94, 243);
+}
